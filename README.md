@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=QUANTORIQ&fontSize=90&animation=fadeIn" alt="Quantoriq Banner">
+  <img src="https://raw.githubusercontent.com/quantoriq/quantoriq/main/README_assets/banner_map.png" alt="Quantoriq Advanced Capabilities Map | AI, 3D, Quantum" width="1000">
 </p>
 
 ## 🌌 Architecting the Immersive Web | An Advanced Digital Vision
@@ -10,17 +10,15 @@ Welcome to **Quantoriq**, where we don't just write code; we *sculpt digital dim
 
 ### 🛠 Visual Guide to Our Mastery | A Rich Digital Ecosystem
 
-Below is a detailed map of our capabilities, illustrating how we merge complex technologies into seamless experiences:
+Below is a detailed, visual map of our ecosystem, illustrating how we merge complex technologies into seamless experiences:
 
-<p align="center">
-  <img src="image_8.png" alt="Quantoriq Advanced Capabilities Map" width="1000">
-</p>
+(The image above is a comprehensive visualization of our core capabilities, including Neural AI, Quantum Tech, and Immersive Web Design)
 
-| Expertise | Visual Representation & Focus | Key Outcomes |
+| Expertise | Focus & Visual Component | Key Outcomes |
 | :--- | :--- | :--- |
-| **🚀 Immersive Web** | Central 3D UI & Geometric Prisms. Fusion of Design & Performance. | 10x Engagement, Seamless Scroll |
-| **🧠 Neural AI** | Left Side: Expansive Neural Network. Model Training & Animation. | Smart, Living Interfaces |
-| **⚛️ Quantum Tech** | Right Side: Quantum Grid & Atom. Algorithms & Entanglement. | Infinite Scalability & Performance |
+| **🚀 Immersive Web** | Central UI & 3D Prisms. Performance Fusion. | 10x Engagement, Seamless Scroll |
+| **🧠 Neural AI** | Expansive Neural Network. Model Training. | Smart, Living Interfaces |
+| **⚛️ Quantum Tech** | Quantum Grid & Atom. Algorithms. | Infinite Scalability & Performance |
 
 ---
 
