@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quantoriq/quantoriq/main/README_assets/banner_map.png" alt="Quantoriq Advanced Capabilities Map | AI, 3D, Quantum" width="1000">
+  <img src="https://github.com/quantoriq/quantoriq/blob/main/image.PNG" alt="Quantoriq Advanced Capabilities Map | AI, 3D, Quantum" width="1000">
 </p>
 
 ## 🌌 Architecting the Immersive Web | An Advanced Digital Vision
